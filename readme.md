@@ -1,6 +1,6 @@
 # Katalog Produk
 
-Katalog Produk is a simple application that uses Express.js and MySQL to manage data for products, categories, and brands. This application provides an API for performing CRUD operations on the mentioned resources.
+Katalog Produk is a simple application that uses Express.js and MySQL to manage data for product, categorie, and brand. This application provides an API for performing CRUD operations on the mentioned resources.
 
 ## Installation
 
